@@ -1,0 +1,6 @@
+1、字符串不能修改
+2、set-----集合:去重、关系测试,它是无序的
+3、for index,line in enumerate(f.readlines()): 
+4、with open #退出with 就会自动关闭文件
+5、r、w、a 读/写/追加  r+、w+、a+ 读写/写读/追加可读 rb、wb、ab 字节操作
+6、seek、tell、truncate flush() 进度条刷新
